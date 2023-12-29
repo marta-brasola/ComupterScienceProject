@@ -1,5 +1,7 @@
 # ComupterScienceProject
 
+This project involves testing Pandas and Python skills to process uncleaned data and extract useful information from the datasets.
+
 ## Queries to do on the datasets
 1. Extract all dogs with status that is not adoptable
 2. For each (primary) breed, determine the number of dogs
@@ -13,5 +15,8 @@
 10. For each dog, compute the number of days from the posted day to the day of last access
 11. Partition the dogs according to the number of weeks from the posted day to the day of last access.
 12. Find for duplicates in the dogs dataset. Two records are duplicates if they have (1) same breeds and sex, and (2) they share at least 90% of the words in the description field. Extra points if you find and implement a more refined for determining if two rows are duplicates.
+
+## Data
+The data that I used in this project can be found in the data folder as a zip file.
 
 
